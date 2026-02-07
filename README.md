@@ -2,6 +2,10 @@
 
 A simple web-based Wikipedia search engine built with HTML, CSS, and JavaScript. It allows users to search for articles on Wikipedia and displays the results in a user-friendly interface.
 
+## Live Demo
+
+[View Live Demo](https://gagankalakota.ccbp.tech)
+
 ## Features
 
 - Search for Wikipedia articles by keyword
